@@ -1,0 +1,44 @@
+.constainer{
+    padding: 60px 60px 0 60px;
+    /* color:cornflowerblue; */
+    font-size: larger;
+}
+
+/* Div 1 */
+.div1 h1, .colorB{
+    color: cornflowerblue;
+}
+.div1 p{
+    font-weight: bold;
+    /* color: gray; */
+}
+
+
+/* Div 2 */
+.div2{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+/* Global Div's */
+.div1 p, .div2, .div3{
+    color: gray;
+}
+.div2 .line, .div3 .line{
+    width: 100%;
+    height: 1px;
+    background-color: black;
+}
+
+.div3{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.div3 table th{
+    font-size: 17px;
+    margin-top: 60px;
+}
+
+.div3 .table1 .tp{
+    padding: 0 610px 0 0;
+}
